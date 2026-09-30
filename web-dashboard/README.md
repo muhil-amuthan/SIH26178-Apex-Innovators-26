@@ -19,6 +19,7 @@ monitoring nodes.
 
 ## Dashboard Flow
 
+
 ```text
 Nodes
   ↓
